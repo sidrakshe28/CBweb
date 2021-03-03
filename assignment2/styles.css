@@ -1,0 +1,51 @@
+
+*{
+    
+    background-image: url('phone.jpg');
+}
+
+div{
+   
+
+    margin:20px;
+    font-family: 'Anton', sans-serif;
+    font-style: bold;
+    
+    
+
+}
+h1{
+    font-style: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-shadow: 4px 4px 5px rgb(165, 106, 177);
+    
+}
+dt:nth-of-type(1){
+    font-style: bold;
+    top:10px;
+    position: sticky;
+}
+div:hover{
+    color:rgb(108, 15, 196);
+    font-weight: 100;
+}
+
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ list-style-type: none;
+ border: 1px solid grey;
+ 
+}
+
+footer{
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    color: black;
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+}
